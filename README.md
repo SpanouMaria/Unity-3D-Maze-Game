@@ -59,4 +59,4 @@ The game is a 3D maze-based adventure where players control a character, "Treasu
 3. Run the game in the Unity Editor or build it for your target platform.
 
 ## Collaboration
-This project was a collaborative effort. Special thanks to **** for their significant contributions to the development and improvement of the game. If you have any questions, feel free to reach out to us via our GitHub profiles.
+This project was a collaborative effort. Special thanks to [ChristosGkovaris](https://github.com/ChristosGkovaris) for their significant contributions to the development and improvement of the game. If you have any questions, feel free to reach out to us via our GitHub profiles.
